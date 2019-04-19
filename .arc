@@ -3,6 +3,7 @@ draw-eqm
 
 @http
 get /
+get /login
 
 @tables
 data
